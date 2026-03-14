@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables (API keys!)
+.env
+
+# Files not needed for the project
+main.py
+simple_agent.py
+agent.ipynb
+.python-version
+pyproject.toml
+uv.lock
